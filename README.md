@@ -1,4 +1,4 @@
-# ☑️ Pro To-Do System
+# ☑️ Pro To-Do List-APP
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/GUI-Tkinter-orange?style=for-the-badge)
