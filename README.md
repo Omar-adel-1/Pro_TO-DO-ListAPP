@@ -62,7 +62,7 @@ Follow these simple steps to get the application running on your machine:
   
 **2. Clone the Repository:**
    ```bash
-   git clone https://github.com/Omar-adel-1/Pro_TO-DO--List-APP.git
+   git clone https://github.com/Omar-adel-1/Pro_TO-DO-ListAPP.git
    ```
 **3. Run the App:**
   ```bash
