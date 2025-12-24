@@ -17,6 +17,8 @@ A professional, desktop-based Task Management application built with **Python** 
 * **💾 Smart Persistence:**
     * **JSON Engine:** Tasks are stored in `tasks.json` instead of text files for better structure and speed.
     * **Auto-Save:** Data is saved instantly upon any change (Add, Delete, Edit).
+ * **🧠 Developer Friendly:**
+    * **Well-Documented:** The code is fully commented (Arabic/English) to explain complex logic, making it perfect for students and beginners to understand.
 * **⚡ Interaction Efficiency:**
     * **Context Menu:** Right-click support for quick actions (Delete / Toggle Status).
     * **Keyboard Shortcuts:** Full support for keyboard navigation (Enter to add, Delete to remove).
@@ -47,11 +49,31 @@ The application is designed for speed. You can manage tasks without leaving the 
 | **Context Menu** | `Right Click` on any task |
 
 ---
+## 🏃‍♂️ How to Run
 
+Follow these simple steps to get the application running on your machine:
+
+**1. Prerequisites:**
+* Ensure you have **Python 3.x** installed.
+* Tkinter is usually included with Python, but on Linux (Ubuntu), you might need to install it:
+ ```bash
+ sudo apt-get install python3-tk
+ ```
+  
+**2. Clone the Repository:**
+   ```bash
+   git clone https://github.com/OmarAdelAbouzeid/Pro-ToDo-System.git
+   ```
+**3. Run the App:**
+  ```bash
+  python main.py
+  ```
+---
 ## 📸 Screenshots
+ <img width="1920" height="1200" alt="Screenshot from 2025-12-25 00-13-21" src="https://github.com/user-attachments/assets/4d9bc032-d2e3-448c-a26c-61489b2d529d" />
 
-<img width="100%" alt="App Screenshot" src="https://via.placeholder.com/800x500/1e1e2e/00adb5?text=Add+Your+Screenshot+Here" />
-*(Note: Replace the link above with the real screenshot URL from your GitHub repository)*
+<img width="1920" height="1200" alt="Screenshot from 2025-12-25 00-13-33" src="https://github.com/user-attachments/assets/b1b45ea9-6891-4afb-b32f-9347b1525173" />
+
 
 ---
 
